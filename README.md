@@ -1,2 +1,25 @@
 # CursoSoyDalto
-https://www.youtube.com/watch?v=kN1XP-Bef7w&amp;list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb
+[Lista de reproduccion](https://www.youtube.com/watch?v=kN1XP-Bef7w&amp;list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb)
+
+### HTML
+
+INTRODUCCION A HTML
+
+FORMATO HMTL & INDEX
+
+ETIQUETAS
+
+TIPOS DE ETIQUETAS
+
+ESTRUCTURA BASICA
+
+CONCEPTOS DE HML SEMANTICO
+
+TITULOS
+
+PARRAFO Y MAS ETIQUETAS DE TEXTOS
+
+MAS TEORIA DE ETIQUETAS
+
+ENLACES
+
