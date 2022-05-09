@@ -1,3 +1,11 @@
-[titulo="rojo"]{
-    color: rgb(241, 63, 32);
+#element-for-modyfy{
+    color: red;
+}
+
+h2 p{
+    color: aqua;
+}
+
+p span{
+    color: blue;
 }
