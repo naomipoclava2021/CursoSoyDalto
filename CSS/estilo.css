@@ -1,11 +1,7 @@
-#element-for-modyfy{
-    color: red;
-}
-
-h2 p{
+h2:hover{
     color: aqua;
 }
 
-p span{
+p b:hover{
     color: blue;
 }
