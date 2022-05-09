@@ -1,7 +1,12 @@
-.form__p{
-    font-size: 25px;
+*{
+    padding: 0px;
+    margin: 0px;
 }
-.form__p-h2{
-    font-size: 1em;
+
+.form{
+    font-size: 25px;
+    background-color: black;
+    width: 100vw;
+    height: 50vh;
 }
 
