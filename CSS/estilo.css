@@ -18,3 +18,6 @@ h1{
     color: rgb(80, 50, 107);
 }
 
+h1{
+    color: gray !important;
+}
