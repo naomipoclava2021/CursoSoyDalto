@@ -1,3 +1,15 @@
-* {
-    color: rgb(92, 1, 86);
+h1 {
+    color: rgb(194, 108, 188);
+}
+
+input{
+    color: aqua;
+}
+
+.titulo-h2{
+    color: blueviolet;
+}
+
+#parrafo-p{
+    color: rgb(119, 137, 240);
 }
