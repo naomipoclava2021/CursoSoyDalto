@@ -1,44 +1,20 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* *{
+*{
     font-family: 'Macondo', cursive;
     font-weight: 1000;
-} */
+}
 
 
-/* .form{
+.form{
     font-size: 25px;
-} */
+}
 
-/* .form__p-h2{
+.form__p-h2{
     font-size: 1em;
     font-family:'Macondo',cursive;
     color: rgb(36, 17, 104);  
-} */
+}
 
-/* .form__p-p{
+.form__p-p{
     color: rgb(90, 28, 119);
-} */
+}
 
