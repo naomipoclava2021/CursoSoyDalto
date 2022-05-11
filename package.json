@@ -1,0 +1,22 @@
+{
+  "name": "cursosoydalto",
+  "version": "1.0.0",
+  "description": "[Lista de reproduccion](https://www.youtube.com/watch?v=kN1XP-Bef7w&amp;list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naomipoclava2021/CursoSoyDalto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naomipoclava2021/CursoSoyDalto/issues"
+  },
+  "homepage": "https://github.com/naomipoclava2021/CursoSoyDalto#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}

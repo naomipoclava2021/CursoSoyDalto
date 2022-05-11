@@ -23,3 +23,14 @@ MAS TEORIA DE ETIQUETAS
 
 ENLACES
 
+#CSS
+
+SELECTORES
+
+METODOLOGIA BEN
+
+UNIDADES 
+
+PROPIEDAD DE TEXTO 
+[GoogleFont](https://fonts.google.com/?preview.text=Titulo&preview.text_type=custom)
+
