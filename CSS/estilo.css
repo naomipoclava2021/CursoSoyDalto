@@ -9,10 +9,8 @@
 
 .form__p-h2{
     font-size: 2em;
-    line-height: 2;
-    font-weight: 800; /*grosor*/
-    /* font-stretch: normal; */
-    /* font-stretch: condensed; */
-    /* font-variant: small-caps; */
+    font-family: sans-serif;
+    color: red;
+    
 }
 
