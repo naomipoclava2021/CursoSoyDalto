@@ -1,5 +1,5 @@
 {
-  "name": "cursosoydalto",
+  "name": "f",
   "version": "1.0.0",
   "description": "[Lista de reproduccion](https://www.youtube.com/watch?v=kN1XP-Bef7w&amp;list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb)",
   "main": "index.js",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/naomipoclava2021/CursoSoyDalto#readme",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "normalize.css": "^8.0.1"
-  }
+  },
+  "keywords": []
 }
