@@ -1,7 +1,7 @@
 # CursoSoyDalto
 [Lista de reproduccion](https://www.youtube.com/watch?v=kN1XP-Bef7w&amp;list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb)
 
-#[link de Pagina web](https://naomipoclava2021.github.io/naomiCursoSoyDalto.github.io/)
+[link de Pagina web](https://naomipoclava2021.github.io/naomiCursoSoyDalto.github.io/)
 ### HTML
 
 INTRODUCCION A HTML
