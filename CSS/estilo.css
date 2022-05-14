@@ -1,0 +1,17 @@
+*{
+    font-family: 'Macondo', cursive;
+    font-weight: 1000;
+}
+
+
+h2{
+    background-color: rgb(31, 216, 154);
+    display:inline-block;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px
+
+    
+}
+

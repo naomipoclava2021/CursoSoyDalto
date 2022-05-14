@@ -1,0 +1,23 @@
+{
+  "name": "cursosoydalto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naomipoclava2021/CursoSoyDalto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naomipoclava2021/CursoSoyDalto/issues"
+  },
+  "homepage": "https://github.com/naomipoclava2021/CursoSoyDalto#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
