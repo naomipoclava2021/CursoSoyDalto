@@ -10,5 +10,7 @@ h2{
     padding: 100px; /* orden de medidas top, right, bottom, left */
     box-sizing: content-box;
     text-align: center;
+    margin: 10px 5px;
+    border-radius:1em
 }
 
