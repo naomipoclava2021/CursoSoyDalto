@@ -5,13 +5,13 @@
 
 
 h2{
-    background-color: rgb(31, 216, 154);
+    background-color: rgb(56, 243, 243);
     display:inline-block;
     padding: 100px; /* orden de medidas top, right, bottom, left */
     box-sizing: content-box;
     text-align: center;
     margin: 10px 5px;
     border-radius:1em;
-    border:4px solid blue
+    border:4px groove rgb(130, 189, 112)
 }
 
