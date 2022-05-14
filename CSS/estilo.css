@@ -5,12 +5,13 @@
 
 
 h2{
-    display: inline;  /* diplay hace que la etique ya no sea en bloque ahora es en linea */
-    height: 300px;
-    width: 400px; /* los elemento en linea(inline) no pueden tener propiedades height y width */
+    background-color: rgb(31, 216, 154);
+    display:inline-block;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px
+
+    
 }
 
-p{
-    height: 400px;
-    width: 190px;
-}
