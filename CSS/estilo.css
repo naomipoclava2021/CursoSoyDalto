@@ -10,8 +10,10 @@ h2{
     padding: 100px; /* orden de medidas top, right, bottom, left */
     box-sizing: content-box;
     text-align: center;
-    margin: 10px 5px;
+    margin: 15px;
     border-radius:1em;
-    border:4px groove rgb(130, 189, 112)
+    border:4px groove rgb(130, 189, 112);
+    box-shadow: 0px 0px 10px 10px rgb(12, 12, 12);
+    text-shadow: 2px 2px 7px rgb(255, 255, 255),2px 2px 7px rgb(255, 255, 255) ;
 }
 
