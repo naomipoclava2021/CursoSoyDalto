@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/naomipoclava2021/CursoSoyDalto#readme",
   "dependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "normalize.css": "^8.0.1"
   }
 }
