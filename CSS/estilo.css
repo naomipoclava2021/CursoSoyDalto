@@ -4,17 +4,13 @@
 }
 
 
-.form{
-    font-size: 25px;
+h2{
+    display: inline;  /* diplay hace que la etique ya no sea en bloque ahora es en linea */
+    height: 300px;
+    width: 400px; /* los elemento en linea(inline) no pueden tener propiedades height y width */
 }
 
-.form__p-h2{
-    font-size: 1em;
-    font-family:'Macondo',cursive;
-    color: rgb(36, 17, 104);  
+p{
+    height: 400px;
+    width: 190px;
 }
-
-.form__p-p{
-    color: rgb(90, 28, 119);
-}
-
