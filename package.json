@@ -1,15 +1,16 @@
 {
-  "name": "f",
+  "name": "cursosoydalto",
   "version": "1.0.0",
-  "description": "[Lista de reproduccion](https://www.youtube.com/watch?v=kN1XP-Bef7w&amp;list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb)",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "npx gh-pages -d ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/naomipoclava2021/CursoSoyDalto.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -17,9 +18,6 @@
   },
   "homepage": "https://github.com/naomipoclava2021/CursoSoyDalto#readme",
   "dependencies": {
-    "gh-pages": "^4.0.0",
-    "normalize.css": "^8.0.1"
-  },
-  "keywords": [],
-  "devDependencies": {}
+    "gh-pages": "^4.0.0"
+  }
 }
